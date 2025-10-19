@@ -1,3 +1,5 @@
+package BinarySearchRecursive;
+
 public class BinarySearchRecursive {
 
     public static int binarySearch(int[] haystack, int needle, int lo, int hi) {

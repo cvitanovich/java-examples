@@ -1,3 +1,5 @@
+package BinarySearchIterative;
+
 public class BinarySearchIterative {
 
     public static int binarySearch(int[] nums, int check) {

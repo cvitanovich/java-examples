@@ -1,3 +1,5 @@
+package ninetyNineBottlesRecursion;
+
 public class ninetyNineBottlesRecursion {
     public static void main(String args[]) {
         song(99);
